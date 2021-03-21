@@ -1,0 +1,5 @@
+C:\laragon\NetCore\LeerData\obj\Debug\net5.0\LeerData.csprojAssemblyReference.cache
+C:\laragon\NetCore\LeerData\obj\Debug\net5.0\LeerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\NetCore\LeerData\obj\Debug\net5.0\LeerData.AssemblyInfoInputs.cache
+C:\laragon\NetCore\LeerData\obj\Debug\net5.0\LeerData.AssemblyInfo.cs
+C:\laragon\NetCore\LeerData\obj\Debug\net5.0\LeerData.csproj.CoreCompileInputs.cache
